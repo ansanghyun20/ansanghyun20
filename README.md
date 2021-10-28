@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 
 ##### 데이터베이스
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
 
 ##### 서버
   
@@ -49,7 +48,8 @@ Here are some ideas to get you started:
 
 ##### 기타
 
-<img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/>
+<img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=GoDaddy&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+#
 </div>
 
 
