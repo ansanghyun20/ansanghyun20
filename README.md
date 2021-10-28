@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30&text=%20Sanghyun%20%20&height=200&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5&text=%20Sanghyun%20%20&height=200&fontSize=100)
 
 
 <!--
