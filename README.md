@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 안녕 유진아?
+
+
 <div align="center">
 
   # 😄  기술 목록 😄 
