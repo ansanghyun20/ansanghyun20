@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-  # 😄  기술 목록 😄 
+  # 😄  기술  😄 
 
 ##### 언어
   
