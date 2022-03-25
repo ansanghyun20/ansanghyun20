@@ -53,14 +53,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/GoDaddy-1BDBDB?style=flat-square&logo=GoDaddy&logoColor=white"/> <img src="https://img.shields.io/badge/Thymeleaf-005F0F?style=flat-square&logo=Thymeleaf&logoColor=white"/> <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
   
   
-  
-  
-  
-  
-![](https://readme-stickers.vercel.app/api/kodeveloper?name={안상현})
-  
-#
-</div>
 
 
 
