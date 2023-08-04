@@ -2,6 +2,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=121212&height=150&section=header&text=&fontSize=38&fontColor=ffffff)
 
+<br>
+<br>
+
+----------------------
 
 <br>
 <br>
